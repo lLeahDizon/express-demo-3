@@ -1,0 +1,11 @@
+{
+  "name": "express-demo-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lLeahDizon/express-demo-3.git",
+  "author": "Lemon <516330797@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
